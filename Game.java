@@ -6,6 +6,8 @@ public class Game {
 
 	public static void main(String[] args) {
 		
+		//Comment added here to test git
+		
 		ArrayList<Car> roster = new ArrayList<Car>();
 		
 		//initialize scanner to take user input
