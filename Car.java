@@ -4,6 +4,7 @@ public abstract class Car {
 	private static int carNumber = 1;
 	
 	private String name;
+	private String notUsedVar;
 	private int speed;
 	private int distance;
 	private Engine thisEngine;
