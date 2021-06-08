@@ -42,6 +42,8 @@ public class Game {
 			}
 		}
 		
+		//random comment
+		
 		//printing selected race type
 		
 		if (raceType==1) {
